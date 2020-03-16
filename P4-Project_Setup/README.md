@@ -7,5 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-. [Project Repository](https://github.com/sangeetharac/StuEmerCon)
-. [README](https://github.com/sangeetharac/StuEmerCon/blob/master/README.txt)
+.[Project Repository](https://github.com/sangeetharac/StuEmerCon)
+
+.[README](https://github.com/sangeetharac/StuEmerCon/blob/master/README.txt)
