@@ -20,7 +20,7 @@ Student health record and emergency contact details (StuEmerCon)
     Maintain: Users will be able to maintain the records(Update)
     Delete  : Users will be able to delete the students.     
     
-### Technologies
+### Technologies  
 
 . Java
 . Javascript
