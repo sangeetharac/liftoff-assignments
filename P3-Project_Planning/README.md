@@ -12,7 +12,7 @@ https://github.com/sangeetharac/liftoff-assignments/blob/master/P3-Project_Plann
 
 The linked PDF includes four wireframes:
 . Login page 
-. Search Student
+. Search Student 
 . Search Results
 . Add/edit/update Student Details
 
